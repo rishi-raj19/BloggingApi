@@ -33,7 +33,6 @@ The Blogging API is a powerful and flexible platform that allows developers to b
 
 
 
-The API will be accessible at `http://localhost:3000`.
 
 ## API Endpoints
 
@@ -67,9 +66,6 @@ Delete a comment from a blog post.
 Null pointer Exception
 
 
-## Authentication
-
-To access the API endpoints, you need to include an API key in the request header. Add the `Authorization` header with the value `authentication token`.
 
 ## Examples
 
