@@ -1,6 +1,6 @@
 # BloggingpApi
-# frameworks and language used
-springboot and java
+# Frameworks and Language used
+Springboot and java
 
 ## Data Flow
 Model
