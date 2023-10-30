@@ -1,4 +1,3 @@
-# BloggingApi
 # BloggingpApi
 # frameworks and language used
 springboot and java
